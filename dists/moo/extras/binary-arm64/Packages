@@ -1,0 +1,36 @@
+Package: moo-docker-24.04
+Version: 0.0.2
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moo/extras/binary-arm64/stable_moo-docker-24.04_0.0.2_arm64.deb
+Size: 1056
+MD5sum: 1730faac712a3750c47be478b4e23e4b
+SHA1: 1a8f10608d91af7a49d53b8adeaaef84c54254a0
+SHA256: ff4550286cd3cbc772e1f60915be77cefe79e2eb64af05709990e76122080af5
+Homepage: https://github.com/moo-the-cow
+Description: Docker compose files for srtla nginx and rtmp nginx
+
+Package: moo-firmware-24.04
+Version: 0.0.3
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moo/extras/binary-arm64/stable_moo-firmware-24.04_0.0.3_arm64.deb
+Size: 784
+MD5sum: da7ba01410cba36a8881adf2b4eae57d
+SHA1: 9d06af53857868a4aba4b4abb52596925c6c0dab
+SHA256: 1c53bb824d33415ebea62b0ba3d7626cc4a46536caaf805f5ddd89d3cc5bec22
+Homepage: https://github.com/moo-the-cow
+Description: Kernel Firmware files
+
+Package: moo-system-files-24.04
+Version: 0.0.28
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moo/extras/binary-arm64/stable_moo-system-files-24.04_0.0.28_arm64.deb
+Size: 46133120
+MD5sum: a6f80e9e10e4fff18e70c4affbe4a2f9
+SHA1: 17060bf3c09e810f29480da298fc8246781fc2a5
+SHA256: e7e276cd65e6ec5eaaa0c606850eb15c7019e67f0ee674a4b133a9e9c0cc0acc
+Homepage: https://github.com/moo-the-cow
+Description: System files
+
