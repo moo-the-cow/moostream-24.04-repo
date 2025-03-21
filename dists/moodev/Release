@@ -1,0 +1,39 @@
+Origin: Moo Repository
+Label: Streaming
+Suite: development
+Codename: moodev
+Version: 1.0
+Architectures: arm64
+Components: base extras
+Description: moo repository
+Date: Fri, 21 Mar 2025 10:32:37 +0000
+MD5Sum:
+ 2412646ccf3002dc2bdadd5f1783ed81 46412008 extras/binary-arm64/dev_moo-system-files-24.04_0.0.45_arm64.deb
+ 76b65ae27007f053e421d4c10d680bb4 804 extras/binary-arm64/dev_moo-firmware-24.04_0.0.3_arm64.deb
+ 87bf529220802e8524f28734edc4dc91 1332 extras/binary-arm64/Packages
+ 6c75fb2b3e2a5bb1f5ec41544fd71598 1072 extras/binary-arm64/dev_moo-docker-24.04_0.0.2_arm64.deb
+ a82969858a72f6d47fed82f35d102abd 190052 base/binary-arm64/dev_moo-rist_0.0.3_arm64.deb
+ fc1b24d3d0d95bfbfd2177212c8aba91 1716 base/binary-arm64/Packages
+ 5402ecbfa0dd9618101e2ab4aab039ea 11515840 base/binary-arm64/dev_moowss-client_0.8.42_arm64.deb
+ 1dc2f90b1e3aed5b52eaf2662bb2c626 33916 base/binary-arm64/dev_srtla_0.0.6_arm64.deb
+ 50df378231054251298f95a617bf3ab5 7588 base/binary-arm64/dev_moo-gst-app_0.0.29_arm64.deb
+SHA1:
+ cd8d93b2c6d378de0bab216dda2949d300df5433 46412008 extras/binary-arm64/dev_moo-system-files-24.04_0.0.45_arm64.deb
+ a1f0d4199e1a61757d5f80290ce22e3bcbbbb316 804 extras/binary-arm64/dev_moo-firmware-24.04_0.0.3_arm64.deb
+ febb37e2de240acea35651b98fd67ed608d0b58c 1332 extras/binary-arm64/Packages
+ 4305d28b56423014530bcb0fbf5fc4a5c531d0db 1072 extras/binary-arm64/dev_moo-docker-24.04_0.0.2_arm64.deb
+ 59c07048c246550a912cfee326644b79db03eefc 190052 base/binary-arm64/dev_moo-rist_0.0.3_arm64.deb
+ 0e9ad6f4ec3af644ba00c60c01cb73d0d78c7c98 1716 base/binary-arm64/Packages
+ da3aca734cbfca029cf8c31d9e0c3c16c7ec8c76 11515840 base/binary-arm64/dev_moowss-client_0.8.42_arm64.deb
+ 66aed8e3b83c69c535cfda7b084b4ad9b7e54298 33916 base/binary-arm64/dev_srtla_0.0.6_arm64.deb
+ 6173b6ec22a64d5536ac683249a57ac237d65990 7588 base/binary-arm64/dev_moo-gst-app_0.0.29_arm64.deb
+SHA256:
+ c12e6984a9f202d3eb34ad6b4c63591b6cd02dff676e6023bac831f8ad681fd6 46412008 extras/binary-arm64/dev_moo-system-files-24.04_0.0.45_arm64.deb
+ a3c635b5ea811e5ff774717581e98b8bee5eb89c7a42b0c5294c02e8db3ae85d 804 extras/binary-arm64/dev_moo-firmware-24.04_0.0.3_arm64.deb
+ 34ce1f98ba55e4769a341541aac991350d1d7944a7464391f8a8188dc205ee6a 1332 extras/binary-arm64/Packages
+ e95b39a4d130929cde3598a35b60c206a99e74e85ffd0c5ecb02e514f9587bf2 1072 extras/binary-arm64/dev_moo-docker-24.04_0.0.2_arm64.deb
+ 232b88a3953c631b0cdcb61a66b589632a3eb5330e476fdfb9880a1aefa3455d 190052 base/binary-arm64/dev_moo-rist_0.0.3_arm64.deb
+ 578e7be6f0a7bcebd1fdc255e37e80de38a5a8db9fb38a8432067892d5a0854f 1716 base/binary-arm64/Packages
+ 4afab4dd9a659093dc01cbf7f0eed59b9497f388aad06d9e43a146b4cf650f28 11515840 base/binary-arm64/dev_moowss-client_0.8.42_arm64.deb
+ 6c2d79a1655f0a88338019eb893480cf3f4974cdad747979b71b8e212d65f0a7 33916 base/binary-arm64/dev_srtla_0.0.6_arm64.deb
+ 779fbf3df6769b49fc65c0b8a577445fee72c9fe9b867eb52a86957b90fecbc7 7588 base/binary-arm64/dev_moo-gst-app_0.0.29_arm64.deb
