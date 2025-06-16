@@ -1,0 +1,48 @@
+Package: moo-gst-app
+Version: 0.0.38
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moodev/base/binary-arm64/dev_moo-gst-app_0.0.38_arm64.deb
+Size: 8992
+MD5sum: 70b9d2a4ae07773f7b2ee5c2aa86b4b7
+SHA1: c14a14feb12585d7fa20269208feaa7b5ea48a6f
+SHA256: 66cb2c1adff0cd31af58814431cbed4b33256f6a2657a399ce24e971380a79b1
+Homepage: https://github.com/moo-the-cow
+Description: GST APP to handle pipelines
+
+Package: moo-rist
+Version: 0.0.4
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moodev/base/binary-arm64/dev_moo-rist_0.0.4_arm64.deb
+Size: 190304
+MD5sum: 554ad672db52e9c91d2ec8d80312fc9e
+SHA1: 2591fd568d54058b81ce6fc707fad9f25700bc09
+SHA256: a1604044f3c3ceb0117b1b0a8c90e543d23bdb1de520ffde5f9fc861010eeaf3
+Homepage: https://github.com/moo-the-cow
+Description: RIST related files
+
+Package: moowss-client
+Version: 0.9.80
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moodev/base/binary-arm64/dev_moowss-client_0.9.80_arm64.deb
+Size: 11839920
+MD5sum: dc61010b479f1db27f3255e3dbc6b34e
+SHA1: 78b12a3e825aa67cf18da94df118e7ca12d12bdb
+SHA256: ecf02fb7515172a708b5c3b83eaa5a1fd2efa5e6e4891f6566dccb0edf45741a
+Homepage: https://github.com/moo-the-cow
+Description: Streaming UI Websocket Client in dotnet core
+
+Package: srtla
+Version: 0.0.6
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moodev/base/binary-arm64/dev_srtla_0.0.6_arm64.deb
+Size: 33892
+MD5sum: 97a654f329584885ed056e91fe37b85c
+SHA1: 5e732e31e09582616fa104cfd5a3e6ad1322a153
+SHA256: 6c437a0992bf4b6b8e812873c53d2cf9767ad38e21ccd789cd1c0c4c8e0cd7ac
+Homepage: https://github.com/moo-the-cow
+Description: SRT SENDER with bonding/grouping activated
+
