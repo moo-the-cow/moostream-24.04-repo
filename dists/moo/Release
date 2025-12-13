@@ -1,0 +1,42 @@
+Origin: Moo Repository
+Label: Streaming
+Suite: stable
+Codename: moo
+Version: 1.0
+Architectures: arm64
+Components: base extras
+Description: moo repository
+Date: Sat, 13 Dec 2025 07:46:52 +0000
+MD5Sum:
+ 1c991265cb08707d6474c248ce4480d7 1224 extras/binary-arm64/stable_moo-docker-24.04_0.0.6_arm64.deb
+ fd52f33892f55ca1fa7e1b033770599d 1332 extras/binary-arm64/Packages
+ 0669a23f0b1a67cc3679df95717dc788 804 extras/binary-arm64/stable_moo-firmware-24.04_0.0.3_arm64.deb
+ 92ee0e913ddb9225fc09ee6424558fff 36738548 extras/binary-arm64/stable_moo-system-files-24.04_0.0.68_arm64.deb
+ 7695b278c76ec611a93cfc1b86f49d23 9800 base/binary-arm64/stable_moo-gst-app_0.0.27_arm64.deb
+ 4f941842c466400db129816ac13bfc61 190164 base/binary-arm64/stable_moo-rist_0.0.5_arm64.deb
+ 4844fb00f2dc4a35894db87e0d4fe628 943260 base/binary-arm64/stable_srtla_0.0.12_arm64.deb
+ 9d82338364b8751c11ae4a581ff9481f 12165332 base/binary-arm64/stable_moowss-client_0.7.6_arm64.deb
+ 3ef58e19b4056c9c0a2728e9c0a0b975 2150 base/binary-arm64/Packages
+ cbfb3af7b7379aeb10d710f5d4d1a13f 2189024 base/binary-arm64/stable_moo-srt-bonding_0.0.1_arm64.deb
+SHA1:
+ fc267e8e55b1df537288afdc3369e01935c7e108 1224 extras/binary-arm64/stable_moo-docker-24.04_0.0.6_arm64.deb
+ f9ff588aecd577444d1c63df552da2d68e2563a8 1332 extras/binary-arm64/Packages
+ 2e3e25d99995e9925b8f73b1e5f502ad7d6e747b 804 extras/binary-arm64/stable_moo-firmware-24.04_0.0.3_arm64.deb
+ 7a8cb8549a98325d7ecf8c251964875c1edda6fe 36738548 extras/binary-arm64/stable_moo-system-files-24.04_0.0.68_arm64.deb
+ 12ebf71e5d23d1bfcc8b6665c17257aad0bfb1a7 9800 base/binary-arm64/stable_moo-gst-app_0.0.27_arm64.deb
+ ea45cdccb50bf87cd6908540eb26aaa0ecf1be38 190164 base/binary-arm64/stable_moo-rist_0.0.5_arm64.deb
+ 66a31d41ba51915f2aed19683e7add49cb45acee 943260 base/binary-arm64/stable_srtla_0.0.12_arm64.deb
+ 004b8fda194377db5b1bc35e32266cbbf59b5aa9 12165332 base/binary-arm64/stable_moowss-client_0.7.6_arm64.deb
+ b84edef3d83c512f3c82502611b4d5498a154665 2150 base/binary-arm64/Packages
+ b2ff6cc04d6c4ce5e9579af07811d5c674d50c1e 2189024 base/binary-arm64/stable_moo-srt-bonding_0.0.1_arm64.deb
+SHA256:
+ a4f0997ae17327629e3d136a0a7460916c115e4473a4a5d043f21505ee11c6c2 1224 extras/binary-arm64/stable_moo-docker-24.04_0.0.6_arm64.deb
+ 0815d1171ad53e5e275c5723682565ed06693c827ee150663b1201e275d1f90c 1332 extras/binary-arm64/Packages
+ cc673f52daeba9a7f5fda68bf921e42e70b0e70a399c71ac90643e27314a33f1 804 extras/binary-arm64/stable_moo-firmware-24.04_0.0.3_arm64.deb
+ 94cc28ada6f549f63291450d1fce9fc7d34f016eed42cf1a6480c7b3e78f5481 36738548 extras/binary-arm64/stable_moo-system-files-24.04_0.0.68_arm64.deb
+ 687884e08f0fc90c889cc861d048f0aed942a9485c79c767e2d48cb9dca1d9a2 9800 base/binary-arm64/stable_moo-gst-app_0.0.27_arm64.deb
+ fc7e7c565e03793f094ccf90844b5e7d0998152e2a6f5fe10060abffdef0ca03 190164 base/binary-arm64/stable_moo-rist_0.0.5_arm64.deb
+ c836fab7a6df3750c28788a71f8284bbdf6e1b34b75ad83a525d2eb3bfe5bde3 943260 base/binary-arm64/stable_srtla_0.0.12_arm64.deb
+ 1635754388c4d63ac66d5899a85b60ecac953dfbec2dae16c0e9380b50f5a4fb 12165332 base/binary-arm64/stable_moowss-client_0.7.6_arm64.deb
+ 64ded619bce3eaa418d56362721e26fee81ee01220ba0bc466bbc712b4482845 2150 base/binary-arm64/Packages
+ 4512ca9d121e557c29faba56f20d74f274b375910d72bb7a12dafe21f24044b8 2189024 base/binary-arm64/stable_moo-srt-bonding_0.0.1_arm64.deb
