@@ -1,0 +1,60 @@
+Package: moo-gst-app
+Version: 0.0.29
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moo/base/binary-arm64/stable_moo-gst-app_0.0.29_arm64.deb
+Size: 9884
+MD5sum: d69443d268950d472062c2d08989acc1
+SHA1: 2951665c6bf5eb426b88927518bbdca4212bb588
+SHA256: d0091a0ef820ee13a1084b1fa6d245509f54e83b16cf0afebd2dec7cd6da3f62
+Homepage: https://github.com/moo-the-cow
+Description: GST APP to handle pipelines
+
+Package: moo-rist
+Version: 0.0.6
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moo/base/binary-arm64/stable_moo-rist_0.0.6_arm64.deb
+Size: 182432
+MD5sum: 67f4eddb5a5df2f5bfc61b66ce3b2a39
+SHA1: 523f8f3693a43d7815740427b82230ea2abacdb8
+SHA256: d8d61c4a54c184d8a4743c2b5070221118526e71f5eddb08ba69c23e59a6caab
+Homepage: https://github.com/moo-the-cow
+Description: RIST related files
+
+Package: moo-srt-bonding
+Version: 0.0.1
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moo/base/binary-arm64/stable_moo-srt-bonding_0.0.1_arm64.deb
+Size: 2189096
+MD5sum: e553234baadaef47d2cd22a56c7027a3
+SHA1: 0d906b03e6ff91edbfb33f81064c2f350f56d0c9
+SHA256: eef42d5acf1504b63270c174beabe227b74853c2d4020863e1dab770939f6293
+Homepage: https://github.com/moo-the-cow
+Description: SRT Bonding related files
+
+Package: moowss-client
+Version: 0.7.46
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moo/base/binary-arm64/stable_moowss-client_0.7.46_arm64.deb
+Size: 9342132
+MD5sum: 02cdc9df4bb2efb28c7c87e18509d9c3
+SHA1: 3faa2f97b00b6be6fbd46032054450dec8704e4f
+SHA256: b1d8088b3cfb91058d60b688018e94f5bfb43c80dff19a43caab515a3714394e
+Homepage: https://github.com/moo-the-cow
+Description: Streaming UI Websocket Client in dotnet core
+
+Package: srtla
+Version: 0.0.12
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moo/base/binary-arm64/stable_srtla_0.0.12_arm64.deb
+Size: 944936
+MD5sum: 20ea63545a416fb5fc98fb17212f8d17
+SHA1: 20af8f72dfff490778f7ebcb8dbfdce02f7e45cb
+SHA256: b35aaa6a7c9ac1622462566ec0e528a6f101677acd80916cf5393727b41467ff
+Homepage: https://github.com/moo-the-cow
+Description: SRT SENDER with bonding/grouping activated
+
