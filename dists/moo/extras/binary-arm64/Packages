@@ -1,0 +1,24 @@
+Package: moo-apps-24.04
+Version: 0.0.2
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moo/extras/binary-arm64/stable_moo-apps-24.04_0.0.2_arm64.deb
+Size: 22703788
+MD5sum: 21441310c71f3b3178e537459f5108ff
+SHA1: 79ea2989affed57cbb78aef74317fb22a477588e
+SHA256: 8435e0eb08fe915b73c4c2ac0b0d9212ca9eb1c65b6a387f93b2cbfa296fc8cf
+Homepage: https://github.com/moo-the-cow
+Description: App Binary files
+
+Package: moo-other-24.04
+Version: 0.0.1
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moo/extras/binary-arm64/stable_moo-other-24.04_0.0.1_arm64.deb
+Size: 107980
+MD5sum: ed33d8a677b70ad464593e3f578c32fc
+SHA1: 6ef933e328721e41739d46747f511c8336d61d6f
+SHA256: 9afb799edaa194e952dc0f01091cb3100fd4147bef086eae56fdd4f3bf276e06
+Homepage: https://github.com/moo-the-cow
+Description: Other files
+
