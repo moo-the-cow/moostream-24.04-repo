@@ -1,0 +1,39 @@
+Origin: Moo Repository
+Label: Streaming
+Suite: stable
+Codename: moo
+Version: 1.0
+Architectures: arm64
+Components: base extras
+Description: moo repository
+Date: Wed, 22 Jul 2026 04:06:15 +0000
+MD5Sum:
+ 3c17efeb180a62f02b8b2ff190d8d859 22698264 extras/binary-arm64/stable_moo-apps-24.04_0.0.2_arm64.deb
+ e22a01c3fc134d689a256021fc0173be 845 extras/binary-arm64/Packages
+ d40ee9cfc79e59696b9b2610072da444 107980 extras/binary-arm64/stable_moo-other-24.04_0.0.1_arm64.deb
+ 6a9141d7ec46f25215b0cc6d5ce76c43 9597000 base/binary-arm64/stable_moowss-client_0.8.2_arm64.deb
+ 8c62ccd973df518c7487c63ec1b0d285 64348 base/binary-arm64/stable_moo-configs-24.04_0.0.2_arm64.deb
+ fb8ee258b44f47ef450e196ae681ca87 2157 base/binary-arm64/Packages
+ 4c66fd0e8c1fe48106d6dccd32dfa955 116800 base/binary-arm64/stable_moo-rist_0.0.17_arm64.deb
+ 3e5516eb96bfbc76180a7645b23d10e2 31748952 base/binary-arm64/stable_moo-libraries-24.04_0.0.6_arm64.deb
+ bb56ca9216e8a1d49030849804ea20f0 10428 base/binary-arm64/stable_moo-gst-app_0.0.31_arm64.deb
+SHA1:
+ 2734a9fa3e10f71632d573c8cf88a9725be533eb 22698264 extras/binary-arm64/stable_moo-apps-24.04_0.0.2_arm64.deb
+ 8f3b9621cbaad9a221496e1c710e37019c1aeb62 845 extras/binary-arm64/Packages
+ 2e334a0546263f835ab9c4cc893b14835123a63c 107980 extras/binary-arm64/stable_moo-other-24.04_0.0.1_arm64.deb
+ 0fbffbee6f0aeb0b82304f6c40ec47f4fa2ec00a 9597000 base/binary-arm64/stable_moowss-client_0.8.2_arm64.deb
+ fe8ecdae5cf7b610e491211b3213b0b5b9cb4dd8 64348 base/binary-arm64/stable_moo-configs-24.04_0.0.2_arm64.deb
+ 10586110d78b913d322b1d3b81df857b16ccd368 2157 base/binary-arm64/Packages
+ c829c15a2ef37a9378048db5b9e1ae5a6fab4549 116800 base/binary-arm64/stable_moo-rist_0.0.17_arm64.deb
+ 9b9e0fe3a66cf28c0a8d87c061fa05dc632778d6 31748952 base/binary-arm64/stable_moo-libraries-24.04_0.0.6_arm64.deb
+ 04b44fcb3298b9f942cb93a037cd5d428df1fa9c 10428 base/binary-arm64/stable_moo-gst-app_0.0.31_arm64.deb
+SHA256:
+ ae9fad0b44c5f2bbf72bc23b2b8eb5fd35a76d5ed8ba1a0632c4a6eb4970f265 22698264 extras/binary-arm64/stable_moo-apps-24.04_0.0.2_arm64.deb
+ fa2dac1b753fbd690df3c470950417d0a24d58b424c8e95f1ab206f311c814e0 845 extras/binary-arm64/Packages
+ 517be76b5f12340893e2caed1e036f2b3fecb8c7094b97fedee9be0adb27d1d1 107980 extras/binary-arm64/stable_moo-other-24.04_0.0.1_arm64.deb
+ 7f0cc512aecb5ceba89525c9512b99981ee50c884a7d17ff629dcb1cd66e06c6 9597000 base/binary-arm64/stable_moowss-client_0.8.2_arm64.deb
+ b45efd5066fe677d25ce4cde7d2d0f04da4bc8deabb35937cd409e45cd41288f 64348 base/binary-arm64/stable_moo-configs-24.04_0.0.2_arm64.deb
+ 9ed6d745faa8a276438a082ae33ca30a92270b54f8432c7afe27400eac126c5d 2157 base/binary-arm64/Packages
+ 83ce9e04686551b9db60039b9fcbf64dca18f879105343e0dee87f4261fdf725 116800 base/binary-arm64/stable_moo-rist_0.0.17_arm64.deb
+ b264876ca1f3093f25d0d134dda2a827ae010588f450d3ca859d97932257f046 31748952 base/binary-arm64/stable_moo-libraries-24.04_0.0.6_arm64.deb
+ 7ff976c7cb8f05e280c4ba8f2a56dedc0b69d0540a27b1fb96761d6bc8eeb599 10428 base/binary-arm64/stable_moo-gst-app_0.0.31_arm64.deb
